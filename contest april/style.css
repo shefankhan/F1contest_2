@@ -1,0 +1,47 @@
+p{
+    box-sizing: border-box;
+
+    
+    width: 1643px;
+    height: 648.57px;
+    left: 38px;
+    top: 47px;
+    
+    border: 2px solid #000000;
+
+
+    width: 1540.51px;
+height: 613.54px;
+left: 89px;
+top: 94.46px;
+
+font-family: 'Inter';
+font-style: normal;
+
+font-size: 45px;
+line-height: 77px;
+
+
+color: #000000;
+
+ 
+
+}
+h1{
+   
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+
+text-decoration-line: underline;
+
+color: #000000;
+
+}
+
+h4{
+    font-size: 100px;
+    font-style: italic;
+}
